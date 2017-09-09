@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3A10E7C33D09FE3031B64154DD9AA0ADF3CA6BBA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3A10E7C33D09FE3031B64154DD9AA0ADF3CA6BBA" : 9223372036854775807,
+    "2AF74981CB2942933384F26A573DD8EA40CC1571" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "72008407-67B9-459D-B449-B935DC5F9BF0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3A10E7C33D09FE3031B64154DD9AA0ADF3CA6BBA" : "",
+    "2AF74981CB2942933384F26A573DD8EA40CC1571" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "kanoonRahbordi",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "kanoonRahbordi.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/negar95\/rahbordi.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2AF74981CB2942933384F26A573DD8EA40CC1571"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/TNIOSDevelopers\/KanoonRahbordi.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3A10E7C33D09FE3031B64154DD9AA0ADF3CA6BBA"
+    }
+  ]
+}
